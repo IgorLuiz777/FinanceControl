@@ -1,2 +1,2 @@
 npm run test -- --no-watch
-echo "npm run lint" >> ./.husky/pre-commit
+echo "npm run lint" >> ./.husky/pre-commitnpm run lint
